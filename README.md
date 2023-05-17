@@ -7,4 +7,5 @@
 
   +  [🔗 I/O, Variables, DataType(1)](1.py) - 📅 1402-01-23
   +  [🔗 Condition(1)](2.py) - 📅 1402-01-30
-  +  [🔗 Condition(2), Loops](3.py) - 📅 1402-02-21
+  +  [🔗 Condition(2), Loops(1)](3.py) - 📅 1402-02-21
+  +  [🔗 Loops(2), List(1)](4.py) - 📅 1402-02-27
